@@ -3,7 +3,7 @@
 # Who are we?
 We are a team of programmers that aim to bring the now outdated Popcap Framework, into the current decade.
 <details>
-  <summary>What's the difference between PopWork and the original framework?</summary>
+  <summary>What's the difference between PopLib and the original framework?</summary>
   <ul>
     <li>We replaced several outdated APIs with:
       <ul>
