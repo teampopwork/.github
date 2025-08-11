@@ -1,7 +1,7 @@
 ![Logo](p2.png)
 
 # Who are we?
-We are a team of programmers that aim to bring the now outdated Popcap Games Framework:tm:, into the current decade.
+We are a team of programmers that aim to bring the now outdated Popcap Games Framework, into the current decade.
 <details>
   <summary>What's the difference between PopLib and the original framework?</summary>
   <ul>
