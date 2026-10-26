@@ -32,3 +32,6 @@ SexyApp-Delta is a modified fork of SexyAppFramework, made for compatibility wit
     <li>Newer APIs, using the same code as PopLib.</li>
   </ul>
 </details>
+
+## Talk with other programmers!
+Join the [discord server](discord.gg/dAtxeUMetD)!
